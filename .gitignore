@@ -1,0 +1,7 @@
+/haikuports.conf
+/buildmaster
+/packages
+/repository
+/repository-*
+/*/*/download
+/*/*/work-*

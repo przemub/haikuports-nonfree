@@ -1,0 +1,4 @@
+#!/bin/sh
+
+CONFIG="$(finddir B_USER_SETTINGS_DIRECTORY)/haikuports-nonfree.conf"
+haikuporter --config=$CONFIG $@
